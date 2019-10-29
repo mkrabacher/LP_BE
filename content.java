@@ -1,5 +1,5 @@
-public class Cgudqk {
+public class Cvbtln {
     public static void main() {
-        System.out.println("ocyni");
+        System.out.println("gcufv");
     }
 }
