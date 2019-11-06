@@ -1,5 +1,5 @@
-public class Cvbtln {
+public class Cjdsrd {
     public static void main() {
-        System.out.println("gcufv");
+        System.out.println("ulcoi");
     }
 }
