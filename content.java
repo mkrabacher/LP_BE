@@ -1,5 +1,5 @@
-public class Cjdsrd {
+public class Covtas {
     public static void main() {
-        System.out.println("ulcoi");
+        System.out.println("vfwnv");
     }
 }
