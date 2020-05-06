@@ -1,5 +1,5 @@
-public class Caslys {
+public class Cvjoqt {
     public static void main() {
-        System.out.println("nqmdd");
+        System.out.println("rmqtg");
     }
 }
