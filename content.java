@@ -1,6 +1,6 @@
 public class Cvjoqt {
     public static void main() {
         System.out.println("rmqtg");
-        System.out.println("bdjwq");
+        System.out.println("hmrrg");
     }
 }
