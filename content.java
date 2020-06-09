@@ -7,5 +7,6 @@ public class Cvjoqt {
         System.out.println("miyee");
         System.out.println("uljee");
         System.out.println("paako");
+        System.out.println("spaig");
     }
 }
