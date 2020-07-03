@@ -10,6 +10,6 @@ public class Cvjoqt {
         System.out.println("spaig");
         System.out.println("sphou");
         System.out.println("pkind");
-        System.out.println("ddhfe");
+        System.out.println("uoerm");
     }
 }
