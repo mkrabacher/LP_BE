@@ -9,6 +9,6 @@ public class Cvjoqt {
         System.out.println("paako");
         System.out.println("spaig");
         System.out.println("sphou");
-        System.out.println("naukv");
+        System.out.println("vrdci");
     }
 }
