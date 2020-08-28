@@ -15,6 +15,5 @@ public class Cvjoqt {
         System.out.println("okhhs");
         System.out.println("dxnjm");
         System.out.println("dwmjp");
-        System.out.println("ludqe");
     }
 }
