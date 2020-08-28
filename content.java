@@ -30,6 +30,5 @@ public class Cvjoqt {
         System.out.println("gsxvg");
         System.out.println("lhgdr");
         System.out.println("ogrpt");
-        System.out.println("oisbx");
     }
 }
