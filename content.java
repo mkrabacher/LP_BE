@@ -19,5 +19,6 @@ public class Cvjoqt {
         System.out.println("cmnmh");
         System.out.println("rleod");
         System.out.println("gtdni");
+        System.out.println("ommim");
     }
 }
