@@ -470,6 +470,5 @@ public class Cvjoqt {
         System.out.println("miqru");
         System.out.println("ydpiy");
         System.out.println("krthv");
-        System.out.println("qatax");
     }
 }
