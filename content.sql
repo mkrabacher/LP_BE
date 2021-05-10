@@ -71,3 +71,4 @@ SELECT * from fmepx;
 SELECT * from tmott;
 SELECT * from ppijh;
 SELECT * from nlqay;
+SELECT * from jbhda;
