@@ -22,6 +22,5 @@ public class Cvjoqt {
         System.out.println("bsasp");
         System.out.println("veflp");
         System.out.println("alhvh");
-        System.out.println("nwlki");
     }
 }
