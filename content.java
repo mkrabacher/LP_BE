@@ -33,7 +33,6 @@ public class Cvjoqt {
         System.out.println("iuxqu");
         System.out.println("gsiwi");
         System.out.println("dqwox");
-        System.out.println("eyvde");
-        System.out.println("joxqx");
+        System.out.println("xurhq");
     }
 }
