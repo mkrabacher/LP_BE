@@ -23,6 +23,5 @@ public class Cvjoqt {
         System.out.println("veflp");
         System.out.println("eiadn");
         System.out.println("hfdwf");
-        System.out.println("vxxyv");
     }
 }
