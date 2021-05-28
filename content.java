@@ -34,5 +34,6 @@ public class Cvjoqt {
         System.out.println("gsiwi");
         System.out.println("dqwox");
         System.out.println("frwvr");
+        System.out.println("osfva");
     }
 }
