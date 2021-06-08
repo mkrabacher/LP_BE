@@ -146,6 +146,5 @@ public class Cvjoqt {
         System.out.println("inxoa");
         System.out.println("bwean");
         System.out.println("pclya");
-        System.out.println("tkmcu");
     }
 }
