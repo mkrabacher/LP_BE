@@ -44,6 +44,5 @@ public class Cvjoqt {
         System.out.println("ahpff");
         System.out.println("sdscq");
         System.out.println("phvdj");
-        System.out.println("lyltf");
     }
 }
