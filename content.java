@@ -73,6 +73,6 @@ public class Cvjoqt {
         System.out.println("xspdl");
         System.out.println("uyhdx");
         System.out.println("wyrtu");
-        System.out.println("ghuxt");
+        System.out.println("skofy");
     }
 }
