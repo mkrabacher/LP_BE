@@ -98,6 +98,12 @@ public class Cvjoqt {
         System.out.println("kvrwr");
         System.out.println("wimvb");
         System.out.println("qmgrc");
-        System.out.println("hnejw");
+        System.out.println("peemm");
+        System.out.println("nfxwf");
+        System.out.println("vfrsp");
+        System.out.println("txpeg");
+        System.out.println("xqvkr");
+        System.out.println("uccsi");
+        System.out.println("hsckl");
     }
 }
