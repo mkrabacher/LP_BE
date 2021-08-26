@@ -15,3 +15,4 @@ SELECT * from enydd;
 SELECT * from mbgok;
 SELECT * from ibvas;
 SELECT * from wmdwe;
+SELECT * from fosia;
