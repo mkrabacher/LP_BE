@@ -8,3 +8,4 @@ SELECT * from mvquk;
 SELECT * from guhab;
 SELECT * from cnule;
 SELECT * from kugme;
+SELECT * from eqdkl;
