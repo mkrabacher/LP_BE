@@ -74,3 +74,4 @@ SELECT * from nlqay;
 SELECT * from jbhda;
 SELECT * from chfps;
 SELECT * from yofsn;
+SELECT * from rydkb;
