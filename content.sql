@@ -16,3 +16,4 @@ SELECT * from mbgok;
 SELECT * from ibvas;
 SELECT * from wmdwe;
 SELECT * from fosia;
+SELECT * from awoxb;
