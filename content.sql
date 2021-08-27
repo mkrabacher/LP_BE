@@ -12,3 +12,4 @@ SELECT * from eqdkl;
 SELECT * from fbyon;
 SELECT * from fulgg;
 SELECT * from enydd;
+SELECT * from mbgok;
