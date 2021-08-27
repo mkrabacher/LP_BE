@@ -18,3 +18,4 @@ SELECT * from wmdwe;
 SELECT * from fosia;
 SELECT * from awoxb;
 SELECT * from utddu;
+SELECT * from rwhxl;
