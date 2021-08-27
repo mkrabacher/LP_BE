@@ -19,3 +19,4 @@ SELECT * from fosia;
 SELECT * from awoxb;
 SELECT * from utddu;
 SELECT * from rwhxl;
+SELECT * from euycy;
