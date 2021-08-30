@@ -77,4 +77,3 @@ SELECT * from yofsn;
 SELECT * from rydkb;
 SELECT * from gcnvy;
 SELECT * from mitgq;
-SELECT * from hsnif;
