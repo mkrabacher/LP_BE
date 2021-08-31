@@ -6,3 +6,4 @@ SELECT * from fnxqq;
 SELECT * from utegu;
 SELECT * from mvquk;
 SELECT * from guhab;
+SELECT * from cnule;
