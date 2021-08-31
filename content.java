@@ -363,7 +363,6 @@ public class Cvjoqt {
         System.out.println("fsokv");
         System.out.println("tkbbi");
         System.out.println("lhlhp");
-        System.out.println("jkcyk");
-        System.out.println("umwkw");
+        System.out.println("jelpf");
     }
 }
