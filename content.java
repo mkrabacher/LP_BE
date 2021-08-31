@@ -237,7 +237,6 @@ public class Cvjoqt {
         System.out.println("mcfgq");
         System.out.println("wpcwq");
         System.out.println("cbwve");
-        System.out.println("pqpcg");
-        System.out.println("luusn");
+        System.out.println("fkrsb");
     }
 }
