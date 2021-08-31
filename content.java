@@ -130,7 +130,6 @@ public class Cvjoqt {
         System.out.println("aljil");
         System.out.println("oxvko");
         System.out.println("mxexv");
-        System.out.println("lgblk");
-        System.out.println("yjnyt");
+        System.out.println("vrlph");
     }
 }
