@@ -21,3 +21,4 @@ SELECT * from utddu;
 SELECT * from rwhxl;
 SELECT * from euycy;
 SELECT * from qhcev;
+SELECT * from eppoe;
