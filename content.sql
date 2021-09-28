@@ -14,3 +14,4 @@ SELECT * from fulgg;
 SELECT * from enydd;
 SELECT * from mbgok;
 SELECT * from ibvas;
+SELECT * from fjdve;
