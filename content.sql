@@ -79,3 +79,4 @@ SELECT * from gcnvy;
 SELECT * from mitgq;
 SELECT * from fotlj;
 SELECT * from bkgrh;
+SELECT * from kwcrk;
