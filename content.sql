@@ -83,3 +83,4 @@ SELECT * from xpopl;
 SELECT * from kyddi;
 SELECT * from urims;
 SELECT * from bsdyc;
+SELECT * from vhywr;
