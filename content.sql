@@ -80,3 +80,4 @@ SELECT * from mitgq;
 SELECT * from fotlj;
 SELECT * from bkgrh;
 SELECT * from xpopl;
+SELECT * from kyddi;
