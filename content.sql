@@ -26,3 +26,4 @@ SELECT * from pclud;
 SELECT * from oqrni;
 SELECT * from olulw;
 SELECT * from vvkrk;
+SELECT * from jgccg;
