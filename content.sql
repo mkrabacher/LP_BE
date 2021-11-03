@@ -25,3 +25,4 @@ SELECT * from nvina;
 SELECT * from pclud;
 SELECT * from oqrni;
 SELECT * from olulw;
+SELECT * from vvkrk;
