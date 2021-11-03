@@ -23,3 +23,4 @@ SELECT * from euycy;
 SELECT * from qhcev;
 SELECT * from nvina;
 SELECT * from pclud;
+SELECT * from oqrni;
