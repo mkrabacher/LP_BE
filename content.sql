@@ -81,4 +81,3 @@ SELECT * from fotlj;
 SELECT * from bkgrh;
 SELECT * from xpopl;
 SELECT * from kyddi;
-SELECT * from urims;
