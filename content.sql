@@ -24,4 +24,5 @@ SELECT * from qhcev;
 SELECT * from nvina;
 SELECT * from pclud;
 SELECT * from oqrni;
-SELECT * from yxbnr;
+SELECT * from awmvm;
+SELECT * from xpcus;
