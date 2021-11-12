@@ -81,4 +81,5 @@ SELECT * from fotlj;
 SELECT * from bkgrh;
 SELECT * from xpopl;
 SELECT * from kyddi;
-SELECT * from tlasb;
+SELECT * from kbhkd;
+SELECT * from rtxbs;
