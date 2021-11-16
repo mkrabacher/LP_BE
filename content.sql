@@ -27,3 +27,4 @@ SELECT * from oqrni;
 SELECT * from awmvm;
 SELECT * from xpcus;
 SELECT * from nkteu;
+SELECT * from ocdwp;
