@@ -28,3 +28,4 @@ SELECT * from awmvm;
 SELECT * from xpcus;
 SELECT * from nkteu;
 SELECT * from ocdwp;
+SELECT * from oepqo;
