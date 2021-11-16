@@ -83,3 +83,4 @@ SELECT * from xpopl;
 SELECT * from kyddi;
 SELECT * from kbhkd;
 SELECT * from rtxbs;
+SELECT * from deotd;
