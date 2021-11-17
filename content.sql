@@ -87,3 +87,4 @@ SELECT * from deotd;
 SELECT * from mpdij;
 SELECT * from hxqbf;
 SELECT * from edyxd;
+SELECT * from sypwk;
