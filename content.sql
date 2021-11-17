@@ -30,3 +30,4 @@ SELECT * from nkteu;
 SELECT * from ocdwp;
 SELECT * from oepqo;
 SELECT * from spqlp;
+SELECT * from sissm;
