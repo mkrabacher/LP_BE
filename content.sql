@@ -88,3 +88,4 @@ SELECT * from mpdij;
 SELECT * from hxqbf;
 SELECT * from edyxd;
 SELECT * from sypwk;
+SELECT * from ltaqg;
