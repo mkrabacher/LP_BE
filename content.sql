@@ -91,4 +91,4 @@ SELECT * from sypwk;
 SELECT * from ltaqg;
 SELECT * from sacoi;
 SELECT * from ktkal;
-SELECT * from imybo;
+SELECT * from dtiyv;
