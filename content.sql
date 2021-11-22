@@ -34,3 +34,4 @@ SELECT * from sissm;
 SELECT * from ooieh;
 SELECT * from lhwqe;
 SELECT * from ddvju;
+SELECT * from kapyt;
