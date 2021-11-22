@@ -90,3 +90,4 @@ SELECT * from edyxd;
 SELECT * from sypwk;
 SELECT * from ltaqg;
 SELECT * from sacoi;
+SELECT * from sbpxt;
