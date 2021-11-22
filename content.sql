@@ -32,3 +32,4 @@ SELECT * from oepqo;
 SELECT * from spqlp;
 SELECT * from sissm;
 SELECT * from ooieh;
+SELECT * from lhwqe;
