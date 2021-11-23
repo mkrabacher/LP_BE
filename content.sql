@@ -92,3 +92,4 @@ SELECT * from ltaqg;
 SELECT * from sacoi;
 SELECT * from ktkal;
 SELECT * from dtiyv;
+SELECT * from onwte;
