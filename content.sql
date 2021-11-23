@@ -36,3 +36,4 @@ SELECT * from lhwqe;
 SELECT * from ddvju;
 SELECT * from kapyt;
 SELECT * from iihra;
+SELECT * from ngkap;
