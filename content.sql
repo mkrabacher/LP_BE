@@ -94,3 +94,4 @@ SELECT * from ktkal;
 SELECT * from dtiyv;
 SELECT * from onwte;
 SELECT * from tknbc;
+SELECT * from ijnwl;
