@@ -98,3 +98,4 @@ SELECT * from ijnwl;
 SELECT * from mhmoj;
 SELECT * from ylagx;
 SELECT * from pmkfx;
+SELECT * from rxtvu;
