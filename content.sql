@@ -41,3 +41,4 @@ SELECT * from vmggg;
 SELECT * from ekqfs;
 SELECT * from aonmk;
 SELECT * from siguv;
+SELECT * from xobxn;
