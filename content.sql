@@ -38,3 +38,6 @@ SELECT * from kapyt;
 SELECT * from iihra;
 SELECT * from ngkap;
 SELECT * from vmggg;
+SELECT * from ekqfs;
+SELECT * from aonmk;
+SELECT * from siguv;
