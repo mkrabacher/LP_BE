@@ -95,3 +95,6 @@ SELECT * from dtiyv;
 SELECT * from onwte;
 SELECT * from tknbc;
 SELECT * from ijnwl;
+SELECT * from mhmoj;
+SELECT * from ylagx;
+SELECT * from pmkfx;
