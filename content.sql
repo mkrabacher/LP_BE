@@ -44,3 +44,4 @@ SELECT * from siguv;
 SELECT * from xobxn;
 SELECT * from wookr;
 SELECT * from qxrlq;
+SELECT * from dkukx;
