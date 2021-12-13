@@ -612,6 +612,5 @@ public class Cvjoqt {
         System.out.println("prepm");
         System.out.println("cfnth");
         System.out.println("nvfek");
-        System.out.println("sqnmc");
     }
 }
