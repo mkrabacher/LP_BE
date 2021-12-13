@@ -45,3 +45,4 @@ SELECT * from xobxn;
 SELECT * from wookr;
 SELECT * from qxrlq;
 SELECT * from trfrg;
+SELECT * from qabfo;
