@@ -47,3 +47,4 @@ SELECT * from qxrlq;
 SELECT * from trfrg;
 SELECT * from qabfo;
 SELECT * from msmvn;
+SELECT * from agwjn;
