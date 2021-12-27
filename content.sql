@@ -104,3 +104,4 @@ SELECT * from hpikv;
 SELECT * from oiagw;
 SELECT * from pcscu;
 SELECT * from wxdsj;
+SELECT * from wtyxh;
