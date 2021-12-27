@@ -49,3 +49,4 @@ SELECT * from qabfo;
 SELECT * from msmvn;
 SELECT * from agwjn;
 SELECT * from gkjfx;
+SELECT * from jwsog;
