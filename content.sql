@@ -52,3 +52,4 @@ SELECT * from gkjfx;
 SELECT * from jwsog;
 SELECT * from fqhhh;
 SELECT * from idhjm;
+SELECT * from lgttf;
