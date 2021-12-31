@@ -107,4 +107,5 @@ SELECT * from wxdsj;
 SELECT * from wtyxh;
 SELECT * from vnuqk;
 SELECT * from ehcfv;
-SELECT * from foduc;
+SELECT * from hcfpc;
+SELECT * from voqay;
