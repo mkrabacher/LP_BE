@@ -109,3 +109,4 @@ SELECT * from vnuqk;
 SELECT * from ehcfv;
 SELECT * from hcfpc;
 SELECT * from voqay;
+SELECT * from yqnxp;
