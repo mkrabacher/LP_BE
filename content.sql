@@ -56,3 +56,4 @@ SELECT * from lgttf;
 SELECT * from imldh;
 SELECT * from jfdtr;
 SELECT * from ncmos;
+SELECT * from lcsfb;
