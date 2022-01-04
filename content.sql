@@ -110,3 +110,4 @@ SELECT * from ehcfv;
 SELECT * from hcfpc;
 SELECT * from voqay;
 SELECT * from yqnxp;
+SELECT * from vocdc;
