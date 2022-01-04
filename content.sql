@@ -55,3 +55,4 @@ SELECT * from idhjm;
 SELECT * from lgttf;
 SELECT * from imldh;
 SELECT * from jfdtr;
+SELECT * from ncmos;
