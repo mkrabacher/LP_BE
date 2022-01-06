@@ -113,3 +113,4 @@ SELECT * from yqnxp;
 SELECT * from vocdc;
 SELECT * from fcxuq;
 SELECT * from jlkkw;
+SELECT * from mxqmk;
