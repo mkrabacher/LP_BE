@@ -59,4 +59,4 @@ SELECT * from ncmos;
 SELECT * from lcsfb;
 SELECT * from kpqbu;
 SELECT * from crebn;
-SELECT * from xdkju;
+SELECT * from fuuou;
