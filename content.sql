@@ -60,3 +60,4 @@ SELECT * from lcsfb;
 SELECT * from kpqbu;
 SELECT * from crebn;
 SELECT * from rkrwt;
+SELECT * from kwufy;
