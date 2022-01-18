@@ -116,3 +116,6 @@ SELECT * from jlkkw;
 SELECT * from mxqmk;
 SELECT * from aynhd;
 SELECT * from hbkfb;
+SELECT * from ybavf;
+SELECT * from tgxam;
+SELECT * from xdwjf;
