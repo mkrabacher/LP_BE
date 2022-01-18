@@ -61,3 +61,6 @@ SELECT * from kpqbu;
 SELECT * from crebn;
 SELECT * from rkrwt;
 SELECT * from kwufy;
+SELECT * from rrtsr;
+SELECT * from hpcnh;
+SELECT * from bevpv;
