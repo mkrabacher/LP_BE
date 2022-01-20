@@ -64,3 +64,4 @@ SELECT * from kwufy;
 SELECT * from rrtsr;
 SELECT * from hpcnh;
 SELECT * from bevpv;
+SELECT * from jlkkn;
