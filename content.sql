@@ -121,3 +121,4 @@ SELECT * from tgxam;
 SELECT * from aqoil;
 SELECT * from ylpgt;
 SELECT * from xsovy;
+SELECT * from yiwog;
