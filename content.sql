@@ -66,3 +66,4 @@ SELECT * from hpcnh;
 SELECT * from bevpv;
 SELECT * from jlkkn;
 SELECT * from fvkvp;
+SELECT * from exgsn;
