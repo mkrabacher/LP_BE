@@ -629,6 +629,5 @@ public class Cvjoqt {
         System.out.println("kumfx");
         System.out.println("cnfnt");
         System.out.println("fofts");
-        System.out.println("swatk");
     }
 }
