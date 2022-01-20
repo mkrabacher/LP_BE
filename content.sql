@@ -120,3 +120,4 @@ SELECT * from ybavf;
 SELECT * from tgxam;
 SELECT * from aqoil;
 SELECT * from ylpgt;
+SELECT * from xsovy;
