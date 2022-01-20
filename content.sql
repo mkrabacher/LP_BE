@@ -122,4 +122,5 @@ SELECT * from aqoil;
 SELECT * from ylpgt;
 SELECT * from xsovy;
 SELECT * from yiwog;
-SELECT * from fkuye;
+SELECT * from txkok;
+SELECT * from jvuiy;
