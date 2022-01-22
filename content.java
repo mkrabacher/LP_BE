@@ -631,6 +631,5 @@ public class Cvjoqt {
         System.out.println("oodqy");
         System.out.println("sceat");
         System.out.println("prdwd");
-        System.out.println("qknix");
     }
 }
