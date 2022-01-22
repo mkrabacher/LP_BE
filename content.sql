@@ -68,3 +68,4 @@ SELECT * from jlkkn;
 SELECT * from fvkvp;
 SELECT * from exgsn;
 SELECT * from fmepx;
+SELECT * from tmott;
