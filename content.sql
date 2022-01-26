@@ -70,3 +70,4 @@ SELECT * from exgsn;
 SELECT * from fmepx;
 SELECT * from tmott;
 SELECT * from ppijh;
+SELECT * from nlqay;
