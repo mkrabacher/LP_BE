@@ -126,3 +126,4 @@ SELECT * from txkok;
 SELECT * from jvuiy;
 SELECT * from ifrvd;
 SELECT * from hxakh;
+SELECT * from yjche;
