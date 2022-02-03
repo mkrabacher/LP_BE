@@ -128,3 +128,4 @@ SELECT * from ifrvd;
 SELECT * from hxakh;
 SELECT * from yjche;
 SELECT * from iyjok;
+SELECT * from groey;
