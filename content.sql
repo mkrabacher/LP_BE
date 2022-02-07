@@ -130,3 +130,4 @@ SELECT * from yjche;
 SELECT * from iyjok;
 SELECT * from stkdo;
 SELECT * from fwkbu;
+SELECT * from cvwcj;
