@@ -136,3 +136,4 @@ SELECT * from hcxwg;
 SELECT * from kvskf;
 SELECT * from trpeh;
 SELECT * from owsuq;
+SELECT * from cnkka;
