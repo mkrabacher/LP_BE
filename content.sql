@@ -138,3 +138,4 @@ SELECT * from trpeh;
 SELECT * from owsuq;
 SELECT * from cnkka;
 SELECT * from pivle;
+SELECT * from knjcu;
