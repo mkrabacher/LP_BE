@@ -140,3 +140,4 @@ SELECT * from cnkka;
 SELECT * from pivle;
 SELECT * from knjcu;
 SELECT * from ixylu;
+SELECT * from ksgrf;
