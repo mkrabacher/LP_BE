@@ -142,3 +142,4 @@ SELECT * from knjcu;
 SELECT * from ixylu;
 SELECT * from ksgrf;
 SELECT * from qmjev;
+SELECT * from tirhf;
