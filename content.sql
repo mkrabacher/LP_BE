@@ -144,3 +144,4 @@ SELECT * from ksgrf;
 SELECT * from qmjev;
 SELECT * from tirhf;
 SELECT * from oruoo;
+SELECT * from qkkgk;
