@@ -147,3 +147,4 @@ SELECT * from oruoo;
 SELECT * from qkkgk;
 SELECT * from ywdfb;
 SELECT * from dlhki;
+SELECT * from yedij;
