@@ -149,3 +149,4 @@ SELECT * from ywdfb;
 SELECT * from dlhki;
 SELECT * from yedij;
 SELECT * from batux;
+SELECT * from teglp;
