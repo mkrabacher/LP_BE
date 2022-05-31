@@ -151,3 +151,4 @@ SELECT * from yedij;
 SELECT * from batux;
 SELECT * from teglp;
 SELECT * from sfvfi;
+SELECT * from yutyr;
