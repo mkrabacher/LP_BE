@@ -153,3 +153,4 @@ SELECT * from teglp;
 SELECT * from sfvfi;
 SELECT * from yutyr;
 SELECT * from vqrhd;
+SELECT * from tkxuy;
