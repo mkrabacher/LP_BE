@@ -157,3 +157,4 @@ SELECT * from tkxuy;
 SELECT * from onwab;
 SELECT * from xsuuu;
 SELECT * from dqblv;
+SELECT * from cckco;
