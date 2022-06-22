@@ -159,3 +159,4 @@ SELECT * from xsuuu;
 SELECT * from dqblv;
 SELECT * from cckco;
 SELECT * from khchn;
+SELECT * from pjncy;
