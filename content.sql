@@ -162,3 +162,4 @@ SELECT * from khchn;
 SELECT * from utfjn;
 SELECT * from goexi;
 SELECT * from rjggx;
+SELECT * from ntpyl;
