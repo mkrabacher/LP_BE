@@ -160,3 +160,4 @@ SELECT * from dqblv;
 SELECT * from cckco;
 SELECT * from khchn;
 SELECT * from utfjn;
+SELECT * from goexi;
