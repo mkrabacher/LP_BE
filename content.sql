@@ -167,3 +167,4 @@ SELECT * from osfnh;
 SELECT * from pyfvj;
 SELECT * from kxfjf;
 SELECT * from wkhrf;
+SELECT * from cfmbr;
