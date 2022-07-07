@@ -168,3 +168,4 @@ SELECT * from pyfvj;
 SELECT * from kxfjf;
 SELECT * from wkhrf;
 SELECT * from cfmbr;
+SELECT * from qkkkt;
