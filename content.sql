@@ -170,3 +170,4 @@ SELECT * from wkhrf;
 SELECT * from cfmbr;
 SELECT * from qkkkt;
 SELECT * from auuit;
+SELECT * from hidxq;
