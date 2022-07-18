@@ -171,4 +171,4 @@ SELECT * from cfmbr;
 SELECT * from qkkkt;
 SELECT * from auuit;
 SELECT * from hidxq;
-SELECT * from jrltv;
+SELECT * from ccpni;
