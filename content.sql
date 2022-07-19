@@ -172,4 +172,4 @@ SELECT * from qkkkt;
 SELECT * from auuit;
 SELECT * from hidxq;
 SELECT * from ccpni;
-SELECT * from mxenx;
+SELECT * from nbciq;
