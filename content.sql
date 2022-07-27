@@ -173,3 +173,4 @@ SELECT * from auuit;
 SELECT * from hidxq;
 SELECT * from ccpni;
 SELECT * from nbciq;
+SELECT * from bgbvj;
