@@ -176,3 +176,5 @@ SELECT * from nbciq;
 SELECT * from bgbvj;
 SELECT * from dlrkm;
 SELECT * from jdkyd;
+SELECT * from elqei;
+SELECT * from ygypl;
