@@ -180,3 +180,4 @@ SELECT * from elqei;
 SELECT * from ygypl;
 SELECT * from qkqyt;
 SELECT * from dqwns;
+SELECT * from wqcqx;
