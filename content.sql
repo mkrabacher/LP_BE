@@ -183,3 +183,4 @@ SELECT * from dqwns;
 SELECT * from wqcqx;
 SELECT * from kwdxa;
 SELECT * from ucpor;
+SELECT * from mwyso;
