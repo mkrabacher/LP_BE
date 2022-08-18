@@ -730,5 +730,6 @@ public class Cvjoqt {
         System.out.println("vupdv");
         System.out.println("ouduf");
         System.out.println("oydxd");
+        System.out.println("mvavg");
     }
 }
