@@ -731,5 +731,7 @@ public class Cvjoqt {
         System.out.println("ouduf");
         System.out.println("oydxd");
         System.out.println("mvavg");
+        System.out.println("wrqlr");
+        System.out.println("ysrxt");
     }
 }
