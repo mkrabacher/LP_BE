@@ -185,3 +185,4 @@ SELECT * from kwdxa;
 SELECT * from ucpor;
 SELECT * from mwyso;
 SELECT * from yyhqo;
+SELECT * from ljxcl;
