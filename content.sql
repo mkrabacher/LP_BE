@@ -188,4 +188,4 @@ SELECT * from yyhqo;
 SELECT * from ljxcl;
 SELECT * from dtvob;
 SELECT * from tvbso;
-SELECT * from xbivi;
+SELECT * from rksmc;
