@@ -189,3 +189,4 @@ SELECT * from ljxcl;
 SELECT * from dtvob;
 SELECT * from tvbso;
 SELECT * from rksmc;
+SELECT * from clnlu;
