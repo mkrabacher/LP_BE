@@ -192,3 +192,4 @@ SELECT * from rksmc;
 SELECT * from clnlu;
 SELECT * from xipta;
 SELECT * from oqjtl;
+SELECT * from mjula;
