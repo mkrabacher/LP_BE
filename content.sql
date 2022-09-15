@@ -195,3 +195,4 @@ SELECT * from oqjtl;
 SELECT * from mjula;
 SELECT * from uxxhk;
 SELECT * from cnbju;
+SELECT * from croca;
