@@ -198,3 +198,4 @@ SELECT * from cnbju;
 SELECT * from croca;
 SELECT * from kweed;
 SELECT * from feasu;
+SELECT * from iyysu;
