@@ -200,3 +200,4 @@ SELECT * from kweed;
 SELECT * from feasu;
 SELECT * from iyysu;
 SELECT * from tpjsa;
+SELECT * from gloee;
