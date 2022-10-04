@@ -203,3 +203,4 @@ SELECT * from tpjsa;
 SELECT * from gloee;
 SELECT * from lgmbg;
 SELECT * from aeaiy;
+SELECT * from smcoi;
