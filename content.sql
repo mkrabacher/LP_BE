@@ -205,3 +205,4 @@ SELECT * from lgmbg;
 SELECT * from aeaiy;
 SELECT * from smcoi;
 SELECT * from gwqcn;
+SELECT * from fjnnv;
