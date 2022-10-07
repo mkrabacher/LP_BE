@@ -208,3 +208,4 @@ SELECT * from gwqcn;
 SELECT * from fjnnv;
 SELECT * from rougp;
 SELECT * from ipchn;
+SELECT * from uxksd;
