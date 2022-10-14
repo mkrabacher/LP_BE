@@ -210,3 +210,4 @@ SELECT * from rougp;
 SELECT * from ipchn;
 SELECT * from uxksd;
 SELECT * from xcynd;
+SELECT * from kccbw;
