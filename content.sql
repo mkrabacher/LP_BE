@@ -209,3 +209,4 @@ SELECT * from fjnnv;
 SELECT * from rougp;
 SELECT * from ipchn;
 SELECT * from uxksd;
+SELECT * from xcynd;
