@@ -211,3 +211,8 @@ SELECT * from ipchn;
 SELECT * from uxksd;
 SELECT * from xcynd;
 SELECT * from kccbw;
+SELECT * from qmeap;
+SELECT * from ghdxl;
+SELECT * from ilasx;
+SELECT * from lwnje;
+SELECT * from uynja;
