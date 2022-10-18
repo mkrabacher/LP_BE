@@ -216,3 +216,4 @@ SELECT * from ghdxl;
 SELECT * from ilasx;
 SELECT * from lwnje;
 SELECT * from hbnvt;
+SELECT * from hkcim;
