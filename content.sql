@@ -219,4 +219,4 @@ SELECT * from hbnvt;
 SELECT * from hkcim;
 SELECT * from rwlcn;
 SELECT * from xwrso;
-SELECT * from nwcdi;
+SELECT * from ltxfu;
