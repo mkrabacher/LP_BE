@@ -220,3 +220,4 @@ SELECT * from hkcim;
 SELECT * from rwlcn;
 SELECT * from xwrso;
 SELECT * from ltxfu;
+SELECT * from edsei;
