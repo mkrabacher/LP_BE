@@ -221,3 +221,4 @@ SELECT * from rwlcn;
 SELECT * from xwrso;
 SELECT * from ltxfu;
 SELECT * from edsei;
+SELECT * from eajgj;
