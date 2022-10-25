@@ -225,3 +225,4 @@ SELECT * from eajgj;
 SELECT * from ifuld;
 SELECT * from rhmqo;
 SELECT * from bmqkg;
+SELECT * from uksce;
