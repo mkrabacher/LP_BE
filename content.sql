@@ -228,3 +228,4 @@ SELECT * from bmqkg;
 SELECT * from uksce;
 SELECT * from ynilt;
 SELECT * from sintm;
+SELECT * from uioyc;
