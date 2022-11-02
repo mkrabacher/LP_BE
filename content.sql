@@ -230,3 +230,4 @@ SELECT * from ynilt;
 SELECT * from sintm;
 SELECT * from uioyc;
 SELECT * from ptatt;
+SELECT * from bagpt;
