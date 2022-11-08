@@ -233,3 +233,4 @@ SELECT * from ptatt;
 SELECT * from bagpt;
 SELECT * from gydjb;
 SELECT * from rakob;
+SELECT * from uajcf;
