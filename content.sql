@@ -238,3 +238,4 @@ SELECT * from bhncp;
 SELECT * from ciphp;
 SELECT * from rigoa;
 SELECT * from kmmdw;
+SELECT * from ihhoh;
