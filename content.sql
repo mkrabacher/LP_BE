@@ -240,3 +240,4 @@ SELECT * from rigoa;
 SELECT * from kmmdw;
 SELECT * from ihhoh;
 SELECT * from kgtyw;
+SELECT * from lmpqb;
