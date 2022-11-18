@@ -247,3 +247,4 @@ SELECT * from wrtye;
 SELECT * from ridou;
 SELECT * from ifiyg;
 SELECT * from huoeg;
+SELECT * from klets;
