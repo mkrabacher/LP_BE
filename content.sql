@@ -250,4 +250,5 @@ SELECT * from huoeg;
 SELECT * from hapif;
 SELECT * from bmimm;
 SELECT * from ptgol;
-SELECT * from locwu;
+SELECT * from xvhvi;
+SELECT * from bhyvj;
