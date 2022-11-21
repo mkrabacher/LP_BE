@@ -249,3 +249,4 @@ SELECT * from ifiyg;
 SELECT * from huoeg;
 SELECT * from hapif;
 SELECT * from bmimm;
+SELECT * from ptgol;
