@@ -252,3 +252,5 @@ SELECT * from bmimm;
 SELECT * from ptgol;
 SELECT * from xvhvi;
 SELECT * from bhyvj;
+SELECT * from ehiyv;
+SELECT * from vvgnf;
