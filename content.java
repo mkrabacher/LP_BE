@@ -803,7 +803,6 @@ public class Cvjoqt {
         System.out.println("tkvpb");
         System.out.println("amhbb");
         System.out.println("skebw");
-        System.out.println("nhhik");
-        System.out.println("phtsy");
+        System.out.println("tiibb");
     }
 }
