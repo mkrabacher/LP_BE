@@ -258,3 +258,5 @@ SELECT * from ljukd;
 SELECT * from duler;
 SELECT * from ydedy;
 SELECT * from kdxdc;
+SELECT * from ybpyd;
+SELECT * from eloaq;
