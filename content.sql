@@ -260,3 +260,4 @@ SELECT * from ydedy;
 SELECT * from kdxdc;
 SELECT * from ybpyd;
 SELECT * from eloaq;
+SELECT * from lgyim;
