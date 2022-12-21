@@ -262,3 +262,4 @@ SELECT * from ybpyd;
 SELECT * from eloaq;
 SELECT * from lgyim;
 SELECT * from citfs;
+SELECT * from yuopw;
