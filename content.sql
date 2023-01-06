@@ -264,3 +264,4 @@ SELECT * from lgyim;
 SELECT * from citfs;
 SELECT * from yuopw;
 SELECT * from ytmdl;
+SELECT * from wcwed;
