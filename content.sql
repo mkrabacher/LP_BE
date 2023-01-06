@@ -265,3 +265,4 @@ SELECT * from citfs;
 SELECT * from yuopw;
 SELECT * from ytmdl;
 SELECT * from sgtea;
+SELECT * from exqku;
