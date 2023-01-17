@@ -268,3 +268,4 @@ SELECT * from sgtea;
 SELECT * from exqku;
 SELECT * from fcipr;
 SELECT * from gkpms;
+SELECT * from wksck;
