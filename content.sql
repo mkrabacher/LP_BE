@@ -267,3 +267,4 @@ SELECT * from ytmdl;
 SELECT * from sgtea;
 SELECT * from exqku;
 SELECT * from fcipr;
+SELECT * from gkpms;
