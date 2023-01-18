@@ -270,3 +270,4 @@ SELECT * from fcipr;
 SELECT * from gkpms;
 SELECT * from wksck;
 SELECT * from ncpyv;
+SELECT * from emvqg;
