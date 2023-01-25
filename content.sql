@@ -271,3 +271,4 @@ SELECT * from gkpms;
 SELECT * from wksck;
 SELECT * from ncpyv;
 SELECT * from emvqg;
+SELECT * from klxih;
