@@ -274,3 +274,4 @@ SELECT * from emvqg;
 SELECT * from klxih;
 SELECT * from djbqv;
 SELECT * from iqbcc;
+SELECT * from lcdit;
