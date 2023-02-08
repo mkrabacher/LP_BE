@@ -279,3 +279,4 @@ SELECT * from lmtwl;
 SELECT * from limnp;
 SELECT * from rulon;
 SELECT * from ccyay;
+SELECT * from slsiv;
