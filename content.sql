@@ -278,3 +278,4 @@ SELECT * from lcdit;
 SELECT * from lmtwl;
 SELECT * from limnp;
 SELECT * from rulon;
+SELECT * from ccyay;
