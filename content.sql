@@ -281,3 +281,4 @@ SELECT * from rulon;
 SELECT * from ccyay;
 SELECT * from slsiv;
 SELECT * from rutha;
+SELECT * from vqdlh;
