@@ -282,3 +282,4 @@ SELECT * from ccyay;
 SELECT * from slsiv;
 SELECT * from rutha;
 SELECT * from vqdlh;
+SELECT * from gjaap;
