@@ -283,3 +283,4 @@ SELECT * from slsiv;
 SELECT * from rutha;
 SELECT * from vqdlh;
 SELECT * from gjaap;
+SELECT * from jicxf;
