@@ -286,3 +286,4 @@ SELECT * from gjaap;
 SELECT * from jicxf;
 SELECT * from wbvef;
 SELECT * from jbkke;
+SELECT * from gweqs;
