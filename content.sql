@@ -289,3 +289,4 @@ SELECT * from jbkke;
 SELECT * from gweqs;
 SELECT * from uyicf;
 SELECT * from trytr;
+SELECT * from afnhf;
