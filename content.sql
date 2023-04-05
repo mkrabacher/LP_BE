@@ -298,3 +298,4 @@ SELECT * from maxly;
 SELECT * from bykfh;
 SELECT * from ftvwe;
 SELECT * from ylbnv;
+SELECT * from locvf;
