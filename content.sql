@@ -299,3 +299,4 @@ SELECT * from bykfh;
 SELECT * from ftvwe;
 SELECT * from ylbnv;
 SELECT * from locvf;
+SELECT * from ffakl;
