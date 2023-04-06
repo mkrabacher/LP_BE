@@ -303,3 +303,4 @@ SELECT * from ffakl;
 SELECT * from nllil;
 SELECT * from odhyt;
 SELECT * from rvmsg;
+SELECT * from olmdi;
