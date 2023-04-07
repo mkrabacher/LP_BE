@@ -305,3 +305,4 @@ SELECT * from odhyt;
 SELECT * from rvmsg;
 SELECT * from olmdi;
 SELECT * from srfoj;
+SELECT * from mbqdd;
