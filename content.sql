@@ -308,3 +308,4 @@ SELECT * from srfoj;
 SELECT * from aolhh;
 SELECT * from apmwb;
 SELECT * from lvaxb;
+SELECT * from onsny;
