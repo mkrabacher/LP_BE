@@ -312,3 +312,4 @@ SELECT * from onsny;
 SELECT * from osjbg;
 SELECT * from oodqw;
 SELECT * from evfog;
+SELECT * from xudxl;
