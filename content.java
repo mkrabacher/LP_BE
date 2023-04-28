@@ -866,7 +866,6 @@ public class Cvjoqt {
         System.out.println("nerpv");
         System.out.println("pesge");
         System.out.println("uowtt");
-        System.out.println("fyooo");
-        System.out.println("djdnx");
+        System.out.println("skoob");
     }
 }
