@@ -318,3 +318,4 @@ SELECT * from ccmqp;
 SELECT * from mdrqt;
 SELECT * from yebqh;
 SELECT * from rflvm;
+SELECT * from pnoof;
