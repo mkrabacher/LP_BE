@@ -320,3 +320,4 @@ SELECT * from yebqh;
 SELECT * from rflvm;
 SELECT * from pnoof;
 SELECT * from fqpty;
+SELECT * from dehrh;
