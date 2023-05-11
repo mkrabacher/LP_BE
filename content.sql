@@ -319,3 +319,4 @@ SELECT * from mdrqt;
 SELECT * from yebqh;
 SELECT * from rflvm;
 SELECT * from pnoof;
+SELECT * from fqpty;
