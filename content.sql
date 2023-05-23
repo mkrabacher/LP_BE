@@ -324,3 +324,4 @@ SELECT * from dehrh;
 SELECT * from nhxsa;
 SELECT * from vfqbv;
 SELECT * from fhgfn;
+SELECT * from jipvi;
