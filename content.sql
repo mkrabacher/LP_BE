@@ -330,3 +330,4 @@ SELECT * from qcbwx;
 SELECT * from swuht;
 SELECT * from mmhbg;
 SELECT * from kentp;
+SELECT * from hwcqn;
