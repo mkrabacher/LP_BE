@@ -334,3 +334,4 @@ SELECT * from hwcqn;
 SELECT * from nldqb;
 SELECT * from shjwk;
 SELECT * from yvwhf;
+SELECT * from oelat;
