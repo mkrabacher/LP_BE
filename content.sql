@@ -335,3 +335,4 @@ SELECT * from nldqb;
 SELECT * from shjwk;
 SELECT * from yvwhf;
 SELECT * from vecvb;
+SELECT * from jsefn;
