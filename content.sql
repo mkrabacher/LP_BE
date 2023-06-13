@@ -337,3 +337,4 @@ SELECT * from yvwhf;
 SELECT * from vecvb;
 SELECT * from jsefn;
 SELECT * from olwwc;
+SELECT * from paryp;
