@@ -340,3 +340,4 @@ SELECT * from olwwc;
 SELECT * from paryp;
 SELECT * from pcwxd;
 SELECT * from vbkas;
+SELECT * from aftxe;
