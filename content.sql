@@ -343,3 +343,4 @@ SELECT * from vbkas;
 SELECT * from aftxe;
 SELECT * from ukeby;
 SELECT * from gohja;
+SELECT * from ynqkn;
