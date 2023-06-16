@@ -342,3 +342,4 @@ SELECT * from pcwxd;
 SELECT * from vbkas;
 SELECT * from aftxe;
 SELECT * from ukeby;
+SELECT * from fbijl;
