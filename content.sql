@@ -344,3 +344,4 @@ SELECT * from aftxe;
 SELECT * from ukeby;
 SELECT * from gohja;
 SELECT * from fhdps;
+SELECT * from wvsqn;
