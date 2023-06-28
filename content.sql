@@ -345,4 +345,5 @@ SELECT * from ukeby;
 SELECT * from gohja;
 SELECT * from fhdps;
 SELECT * from wvsqn;
-SELECT * from nnwia;
+SELECT * from fuvhc;
+SELECT * from unyok;
