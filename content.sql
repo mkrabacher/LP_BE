@@ -347,3 +347,4 @@ SELECT * from fhdps;
 SELECT * from wvsqn;
 SELECT * from fuvhc;
 SELECT * from unyok;
+SELECT * from etctg;
