@@ -349,3 +349,4 @@ SELECT * from fuvhc;
 SELECT * from unyok;
 SELECT * from etctg;
 SELECT * from vfpgi;
+SELECT * from wfaqh;
