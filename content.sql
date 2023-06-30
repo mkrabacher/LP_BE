@@ -348,3 +348,4 @@ SELECT * from wvsqn;
 SELECT * from fuvhc;
 SELECT * from unyok;
 SELECT * from etctg;
+SELECT * from vfpgi;
