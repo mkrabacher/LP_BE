@@ -350,3 +350,4 @@ SELECT * from unyok;
 SELECT * from etctg;
 SELECT * from vfpgi;
 SELECT * from wfaqh;
+SELECT * from sguue;
