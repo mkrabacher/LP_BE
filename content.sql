@@ -351,3 +351,4 @@ SELECT * from etctg;
 SELECT * from vfpgi;
 SELECT * from wfaqh;
 SELECT * from sguue;
+SELECT * from wnpnx;
