@@ -353,3 +353,4 @@ SELECT * from wfaqh;
 SELECT * from sguue;
 SELECT * from wnpnx;
 SELECT * from gfvlk;
+SELECT * from wumjm;
