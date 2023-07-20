@@ -363,3 +363,4 @@ SELECT * from ovfdy;
 SELECT * from ndwpm;
 SELECT * from addax;
 SELECT * from kulrm;
+SELECT * from lrrpx;
