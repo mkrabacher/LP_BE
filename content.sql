@@ -362,3 +362,4 @@ SELECT * from djofs;
 SELECT * from ovfdy;
 SELECT * from ndwpm;
 SELECT * from addax;
+SELECT * from kulrm;
