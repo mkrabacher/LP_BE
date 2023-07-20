@@ -360,3 +360,5 @@ SELECT * from pleew;
 SELECT * from gmqvj;
 SELECT * from djofs;
 SELECT * from ovfdy;
+SELECT * from ndwpm;
+SELECT * from addax;
