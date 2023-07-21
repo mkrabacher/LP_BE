@@ -364,3 +364,4 @@ SELECT * from ndwpm;
 SELECT * from addax;
 SELECT * from kulrm;
 SELECT * from lrrpx;
+SELECT * from nktwo;
