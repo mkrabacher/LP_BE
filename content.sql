@@ -365,3 +365,4 @@ SELECT * from addax;
 SELECT * from kulrm;
 SELECT * from lrrpx;
 SELECT * from jsoda;
+SELECT * from nosdh;
