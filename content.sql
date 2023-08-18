@@ -368,3 +368,4 @@ SELECT * from jsoda;
 SELECT * from nosdh;
 SELECT * from vohjr;
 SELECT * from mnrlt;
+SELECT * from kiupy;
