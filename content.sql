@@ -369,3 +369,4 @@ SELECT * from nosdh;
 SELECT * from vohjr;
 SELECT * from mnrlt;
 SELECT * from kiupy;
+SELECT * from iksdu;
