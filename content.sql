@@ -372,3 +372,4 @@ SELECT * from kiupy;
 SELECT * from iksdu;
 SELECT * from gltkj;
 SELECT * from lumvr;
+SELECT * from xplbh;
