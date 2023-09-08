@@ -375,3 +375,4 @@ SELECT * from lumvr;
 SELECT * from xplbh;
 SELECT * from jliof;
 SELECT * from opqal;
+SELECT * from bpoqk;
