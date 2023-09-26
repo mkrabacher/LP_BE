@@ -377,3 +377,4 @@ SELECT * from jliof;
 SELECT * from opqal;
 SELECT * from bpoqk;
 SELECT * from njhtp;
+SELECT * from kgwoa;
