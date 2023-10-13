@@ -381,3 +381,4 @@ SELECT * from pkfii;
 SELECT * from tdmca;
 SELECT * from rtkmq;
 SELECT * from yghng;
+SELECT * from ljvsy;
