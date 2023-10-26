@@ -1000,5 +1000,6 @@ public class Cvjoqt {
         System.out.println("abeha");
         System.out.println("jniee");
         System.out.println("mashm");
+        System.out.println("pynom");
     }
 }
