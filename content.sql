@@ -383,3 +383,5 @@ SELECT * from rtkmq;
 SELECT * from yghng;
 SELECT * from ljvsy;
 SELECT * from bvryd;
+SELECT * from rsrpp;
+SELECT * from hmumu;
