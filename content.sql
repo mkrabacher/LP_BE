@@ -391,3 +391,4 @@ SELECT * from pbtgu;
 SELECT * from asthh;
 SELECT * from wnuiu;
 SELECT * from qvhbs;
+SELECT * from ajxgw;
