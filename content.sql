@@ -395,3 +395,4 @@ SELECT * from ajxgw;
 SELECT * from rlpmp;
 SELECT * from vgken;
 SELECT * from fydny;
+SELECT * from cpnex;
