@@ -396,3 +396,4 @@ SELECT * from rlpmp;
 SELECT * from vgken;
 SELECT * from fydny;
 SELECT * from cpnex;
+SELECT * from wkycp;
